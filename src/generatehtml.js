@@ -4,7 +4,7 @@ const Manager = require("../lib/Manager");
 const Employee = require('../lib/Employee')
 
 
-function generatehtml() {
+function generatehtml(teamArray) {
    return `<div class = "container">
         <div class = "card">
             <div class = "card-title"><h1> Name: ${manager.getName()} </h1>

@@ -1,11 +1,11 @@
 const Employee = require('../lib/Employee')
 
 test('Employee', () => {
-    const Employee = new Employee('Jakub', 1 , 'jakub@jakub.com')
-    expect(Employee.officeNumber).toEqual(expect.any(String));
+    const employee = new Employee('Jakub', 1 , 'jakub@jakub.com')
+    expect(employee.getid()).toEqual(expect.any(Number));
 })
 
 test('Employee Role', () => {
-    const Employee = new Employee('Jakub', 1 , 'jakub@jakub.com')
-    expect(InteEmployeern.getRole()).toEqual("Employee");
+    const employee = new Employee('Jakub', 1 , 'jakub@jakub.com')
+    expect(employee.getRole()).toEqual("Employee");
 })
