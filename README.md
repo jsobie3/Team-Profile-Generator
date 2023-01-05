@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/109123352/210672518-e6428ba5-e345-465e-9867-121885b4486c.png)
 
 
-https://www.youtube.com/watch?v=VJuQlvh8CXw
+https://www.youtube.com/watch?v=hti3ibxN4HY
 
 
 # 10 Object-Oriented Programming: Team Profile Generator
